@@ -43,8 +43,8 @@ export default function AdminLGIPage() {
     setSaving(false)
   }
 
-  const zones = [...new Set(items.map(i => i.zone).filter(Boolean))]
-// const zones = Array.from(new Set(items.map(i => i.zone).filter(Boolean))) as string[]
+  // const zones = [...new Set(items.map(i => i.zone).filter(Boolean))]
+const zones = Array.from(new Set(items.map(i => i.zone).filter(Boolean))) as string[]
 
   const totalFilled = items.filter(i => i.lgi_name || i.mclo_name).length
 
