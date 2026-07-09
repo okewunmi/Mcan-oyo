@@ -1,0 +1,157 @@
+{
+  "monday": [
+    {
+      "id": "mon-001",
+      "content_type": "hadith",
+      "title": "Hadith on Intentions",
+      "arabic_text": "إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى",
+      "english_text": "Indeed, actions are judged by intentions, and every person will have only what they intended.",
+      "transliteration": "Innamal a'maalu binniyyaat, wa innamaa likulli imri'in maa nawaa.",
+      "chain_of_narration": "Umar ibn al-Khattab → Alqamah ibn Waqqas → Muhammad ibn Ibrahim at-Taymi → Yahya ibn Sa'id al-Ansari → Imam Malik / Sufyan ath-Thawri",
+      "reported_by": "Narrated by Umar ibn al-Khattab (may Allah be pleased with him). Recorded in Sahih al-Bukhari (1) and Sahih Muslim (1907).",
+      "lesson": "Every action we perform — whether prayer, work, study, or da'wah — is weighed by its intention. If your service year is dedicated to pleasing Allah, every moment of your NYSC becomes an act of worship. Renew your intention daily.",
+      "source": "Sahih al-Bukhari, Vol. 1, Book 1, Hadith 1; Sahih Muslim, Book of Leadership, Hadith 1907"
+    },
+    {
+      "id": "mon-002",
+      "content_type": "hadith",
+      "title": "Hadith on Honesty",
+      "arabic_text": "عَلَيْكُمْ بِالصِّدْقِ، فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ",
+      "english_text": "You must be truthful, for truthfulness leads to righteousness, and righteousness leads to Paradise.",
+      "transliteration": "Alaykum bis-sidq, fa-innas-sidqa yahdee ilal-birr, wa innal-birra yahdee ilal-jannah.",
+      "chain_of_narration": "Abdullah ibn Mas'ud → Abu Wa'il → Mansur ibn al-Mu'tamir → Shu'bah",
+      "reported_by": "Narrated by Abdullah ibn Mas'ud (may Allah be pleased with him). Recorded in Sahih al-Bukhari (6094) and Sahih Muslim (2607).",
+      "lesson": "As a corps member representing your faith, your honesty in small matters — from attendance registers to community reports — is an act of worship. Islam elevates honesty as a path to Jannah itself.",
+      "source": "Sahih al-Bukhari, Hadith 6094; Sahih Muslim, Hadith 2607"
+    }
+  ],
+  "tuesday": [
+    {
+      "id": "tue-001",
+      "content_type": "azkar",
+      "title": "Morning Dhikr — SubhanAllah wa bihamdihi",
+      "arabic_text": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+      "english_text": "Glory be to Allah and all praise is due to Him.",
+      "transliteration": "SubhanAllahi wa bihamdihi.",
+      "benefits": "Whoever says this 100 times in the morning and evening will have all their sins forgiven, even if they are as abundant as the foam of the sea. This dhikr is light on the tongue but heavy on the Scale.",
+      "source": "Sahih al-Bukhari, Hadith 6405; Sahih Muslim, Hadith 2691. From Riyad as-Salihin by Imam an-Nawawi."
+    },
+    {
+      "id": "tue-002",
+      "content_type": "azkar",
+      "title": "Dhikr After Salah — Tasbeeh, Tahmeed, Takbeer",
+      "arabic_text": "سُبْحَانَ اللَّهِ (٣٣) الْحَمْدُ لِلَّهِ (٣٣) اللَّهُ أَكْبَرُ (٣٣) لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "english_text": "Glory be to Allah (33 times). Praise be to Allah (33 times). Allah is the Greatest (33 times). There is no god but Allah, alone, without partner. To Him belongs all dominion and all praise, and He has power over all things.",
+      "transliteration": "SubhanAllah (33x). Alhamdulillah (33x). Allahu Akbar (33x). La ilaha illAllahu wahdahu la shareeka lah, lahul mulku wa lahul hamdu wa Huwa 'ala kulli shay'in qadeer.",
+      "benefits": "The Prophet ﷺ said: 'Whoever glorifies Allah 33 times after every prayer, praises Him 33 times, and declares His greatness 33 times... his sins will be forgiven even if they are as abundant as the foam of the sea.' These 99 dhikrs form the most rewarding post-Salah remembrance.",
+      "source": "Sahih Muslim, Hadith 597. Commentary from Sharh Sahih Muslim by Imam an-Nawawi."
+    }
+  ],
+  "wednesday": [
+    {
+      "id": "wed-001",
+      "content_type": "tawheed",
+      "title": "Tawheed al-Uluhiyyah — Singling Out Allah in Worship",
+      "arabic_text": "وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ",
+      "english_text": "And I did not create the jinn and mankind except to worship Me. (Quran 51:56)",
+      "lesson": "The core of Tawheed al-Uluhiyyah is directing all acts of worship — prayer, supplication, sacrifice, love, fear, and hope — solely to Allah. In a world of social pressures, peer worship of status and wealth, the corps member must anchor every ambition in this truth: we were created to worship Allah alone.",
+      "extra_notes": "Real-life scenario: A Muslim corps member is offered a bribe to falsify community development records. The fear of Allah (and not just the law) is what truly deters the believer. This is an act of Tawheed — fearing Allah above all others.\n\nQ: Is it worship if I perform Salah while being distracted by work?\nA: The obligation is fulfilled, but the reward is diminished. Khushu' (concentration) in Salah is from the perfection of worship. Scholars recommend saying 'Allahu Akbar' and imagining this is your last prayer.",
+      "source": "Tafsir Ibn Kathir, Surah adh-Dhariyat 51:56; Kitab at-Tawheed by Shaykh Muhammad ibn Abd al-Wahhab"
+    },
+    {
+      "id": "wed-002",
+      "content_type": "tawheed",
+      "title": "Tawheed ar-Rububiyyah — Allah's Lordship Over All Creation",
+      "arabic_text": "رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا فَاعْبُدْهُ وَاصْطَبِرْ لِعِبَادَتِهِ",
+      "english_text": "Lord of the heavens and the earth and whatever is between them — so worship Him and be steadfast in His worship. (Quran 19:65)",
+      "lesson": "Believing that Allah alone creates, sustains, and controls the universe is called Tawheed ar-Rububiyyah. Even the mushrikeen of Makkah believed this — yet they still associated partners with Allah in worship. So believing Allah is Lord is necessary but not sufficient; we must also worship Him alone.",
+      "extra_notes": "Q: If I believe in Allah, why do I still need to avoid consulting fortune-tellers?\nA: Consulting fortune-tellers is Shirk in Tawheed al-Uluhiyyah — you are directing worship (trust/reliance) to other than Allah. The Prophet ﷺ said: 'Whoever visits a fortune-teller and believes what he says has disbelieved in what was revealed to Muhammad.' (Abu Dawud 3904)",
+      "source": "Tafsir as-Sa'di, Surah Maryam 19:65; Explanation of the Three Fundamental Principles by Shaykh Ibn al-'Uthaymeen"
+    }
+  ],
+  "thursday": [
+    {
+      "id": "thu-001",
+      "content_type": "fiqh",
+      "title": "Fiqh of Salat al-Jama'ah — Congregational Prayer",
+      "arabic_text": "صَلَاةُ الْجَمَاعَةِ أَفْضَلُ مِنْ صَلَاةِ الْفَذِّ بِسَبْعٍ وَعِشْرِينَ دَرَجَةً",
+      "english_text": "Congregational prayer is twenty-seven degrees superior to individual prayer.",
+      "lesson": "Scholars of the four madhabs agree that congregational prayer is at minimum Sunnah Mu'akkadah (strongly confirmed Sunnah), with the Hanbali madhab holding it to be fard (obligatory). As a corps member living at your PPA, you should actively seek mosques nearby and organize jama'ah with fellow Muslim corps members even if only two of you are present.",
+      "extra_notes": "Ruling on missing Jumu'ah: Missing three consecutive Jumu'ah prayers without excuse causes the heart to be sealed (Tirmidhi, 500). If your CDS or official assignment clashes with Jumu'ah, you must request accommodation from your supervisor. MCAN can assist with official letters.\n\nJamu'ah for women: Congregational prayer is not obligatory for women, though they may attend the masjid. Their prayer at home is equally valid.",
+      "source": "Sahih al-Bukhari, Hadith 645; Fiqh us-Sunnah by Sayyid Sabiq; Al-Fiqh al-Islami wa Adillatuh by Wahbah az-Zuhayli"
+    },
+    {
+      "id": "thu-002",
+      "content_type": "fiqh",
+      "title": "Fiqh of Zakah — Who Must Pay and How",
+      "arabic_text": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ",
+      "english_text": "And establish prayer and give Zakah. (Quran 2:110)",
+      "lesson": "Zakah becomes obligatory when one possesses wealth that reaches the nisab (threshold) and one full lunar year (hawl) passes while maintaining it. The nisab for gold is 85 grams; for silver, 595 grams. As corps members receiving an allowance, Zakah is generally not due on monthly salary if it does not reach the nisab and hawl simultaneously — but it is praiseworthy to give Sadaqah (voluntary charity) regularly.",
+      "extra_notes": "Common question: Do I pay Zakah on my NYSC allowance?\nAnswer: Your monthly stipend is consumed before a year passes, so the hawl condition is not met. However, if you save and the savings remain above nisab for a full lunar year, Zakah becomes due on those savings at 2.5%.",
+      "source": "Al-Fiqh al-Islami wa Adillatuh, Vol. 3, Wahbah az-Zuhayli; Sharh al-Mumti' by Shaykh Ibn al-'Uthaymeen"
+    }
+  ],
+  "friday": [
+    {
+      "id": "fri-001",
+      "content_type": "jumuah",
+      "title": "Jumu'ah Rites — Preparation and Sunnah Acts",
+      "arabic_text": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِن يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ",
+      "english_text": "O you who have believed, when the call to prayer is made on the day of Jumu'ah, proceed immediately to the remembrance of Allah and leave trade. (Quran 62:9)",
+      "lesson": "Friday is the 'Sayyid al-Ayyam' (master of all days). Among the Sunnah acts: perform ghusl (bath), wear clean/best clothes, use miswak, apply perfume (men only), read Surah al-Kahf, send abundant salawat (prayers) upon the Prophet ﷺ, make du'a especially in the last hour before Maghrib, go early to the masjid, and listen attentively to the khutbah.",
+      "extra_notes": "The hidden hour (Sa'ah al-Khafiyyah): The Prophet ﷺ mentioned a hidden hour on Friday when du'a is accepted. Most scholars identify it as the last hour before Maghrib. Make it a habit to make sincere du'a at this time every Friday.",
+      "source": "Quran 62:9; Sahih al-Bukhari, Hadith 881; Riyad as-Salihin, Chapter on the Virtues of Friday"
+    },
+    {
+      "id": "fri-002",
+      "content_type": "azkar",
+      "title": "Friday Azkar — Salawat upon the Prophet ﷺ",
+      "arabic_text": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "english_text": "O Allah, send prayers upon Muhammad and upon the family of Muhammad, as You sent prayers upon Ibrahim and upon the family of Ibrahim. Indeed, You are Praiseworthy and Glorious.",
+      "transliteration": "Allahumma salli 'ala Muhammadin wa 'ala aali Muhammadin, kamaa sallayta 'ala Ibraheema wa 'ala aali Ibraheema, innaka Hameedun Majeed.",
+      "benefits": "The Prophet ﷺ said: 'Whoever sends salawat upon me once, Allah will send ten blessings upon him, erase ten of his sins, and raise him ten degrees.' (Sahih Muslim). On Friday, increase this dhikr abundantly.",
+      "source": "Sahih al-Bukhari, Hadith 3370; Sahih Muslim, Hadith 406; al-Adhkar by Imam an-Nawawi"
+    }
+  ],
+  "saturday": [
+    {
+      "id": "sat-001",
+      "content_type": "prophet_story",
+      "title": "Khadijah bint Khuwaylid (RA) — The First Believer",
+      "arabic_text": "خَيْرُ نِسَائِهَا مَرْيَمُ بِنْتُ عِمْرَانَ، وَخَيْرُ نِسَائِهَا خَدِيجَةُ بِنْتُ خُوَيْلِدٍ",
+      "english_text": "The best of its women was Maryam daughter of 'Imran, and the best of its women was Khadijah daughter of Khuwaylid. (Sahih Muslim)",
+      "lesson": "Khadijah (RA) was the first to embrace Islam, the first to believe in the Prophet ﷺ when the revelation came, and she spent her entire wealth in the service of Islam. When the Prophet ﷺ returned trembling from the Cave of Hira, it was her words of comfort that steadied him. She died before the hijrah, yet her status is among the highest in Jannah.\n\nLesson for corps members: True support for Islam does not require a position. Khadijah's contribution was her belief, her wealth, and her emotional support. You can serve Islam through your finances, your comfort to others, and your unwavering faith.",
+      "source": "Sahih al-Bukhari, Hadith 3820; Sahih Muslim, Hadith 2430; As-Seerah an-Nabawiyyah by Ibn Hisham"
+    },
+    {
+      "id": "sat-002",
+      "content_type": "prophet_story",
+      "title": "Bilal ibn Rabah (RA) — The Voice of Tawheed",
+      "arabic_text": "أَحَدٌ أَحَدٌ",
+      "english_text": "One (Allah). One (Allah).",
+      "lesson": "Bilal was an Abyssinian slave who became one of the most beloved companions of the Prophet ﷺ. When tortured by his master Umayyah ibn Khalaf for accepting Islam — laid on burning sand with rocks on his chest — his only response was 'Ahad! Ahad!' (One! One! — affirming Allah's oneness). Abu Bakr (RA) purchased and freed him. The Prophet ﷺ later made him the first Mu'adhdhin (caller to prayer) of Islam.\n\nLesson: Your faith may be tested in your place of posting — through peer pressure, mockery, or difficulty. Like Bilal, hold firm to Tawheed regardless of social pressure. Your 'Ahad' in the face of temptation is the greatest victory.",
+      "source": "Sahih al-Bukhari, Hadith 3754; Usud al-Ghabah by Ibn al-Athir; As-Seerah an-Nabawiyyah by Ibn Kathir"
+    }
+  ],
+  "sunday": [
+    {
+      "id": "sun-001",
+      "content_type": "quran_story",
+      "title": "The Story of Yusuf (AS) — Patience and Purity",
+      "arabic_text": "إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ",
+      "english_text": "Indeed, whoever fears Allah and is patient — then indeed, Allah does not allow to be lost the reward of those who do good. (Quran 12:90)",
+      "lesson": "Yusuf (AS) was thrown into a well by his brothers, sold into slavery, falsely accused and imprisoned — yet at every stage, he maintained his taqwa and patience. Allah's plan unfolded perfectly and he became the Aziz of Egypt. The Quran calls his story 'the best of stories' (12:3).\n\nFor corps members away from home, in unfamiliar states: your displacement mirrors in a small way the trials of Yusuf (AS). Use this year to build your character, resist temptation like he did, and trust that Allah's plan for you is better than any you could devise.",
+      "source": "Quran, Surah Yusuf 12:1–101; Tafsir Ibn Kathir, Surah Yusuf; Stories of the Prophets by Ibn Kathir"
+    },
+    {
+      "id": "sun-002",
+      "content_type": "quran_story",
+      "title": "The People of the Cave — Ahl al-Kahf",
+      "arabic_text": "إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+      "english_text": "Indeed, they were youths who believed in their Lord, and We increased them in guidance. (Quran 18:13)",
+      "lesson": "A group of young men in a tyrannical society chose faith over comfort, fleeing to a cave rather than renouncing their belief in Allah. Allah caused them to sleep for 309 years and made their story a sign for all of humanity, preserved in the Quran until the Day of Judgment.\n\nYou are the 'youth who believed.' The Quran celebrates young people who choose Allah over conformity. Reading Surah al-Kahf every Friday protects from the Dajjal — the embodiment of social deception — and is a reminder that sincere faith in youth is the greatest honor.",
+      "source": "Quran 18:9–26; Tafsir as-Sa'di, Surah al-Kahf; Sahih Muslim, Hadith 809 on virtues of Surah al-Kahf"
+    }
+  ]
+}
+

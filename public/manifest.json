@@ -1,0 +1,26 @@
+{
+  "name": "MCAN Oyo State",
+  "short_name": "MCAN Oyo",
+  "description": "Muslim Corpers' Association of Nigeria — Oyo State Chapter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf5",
+  "theme_color": "#145a32",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "religion"],
+  "lang": "en"
+}
